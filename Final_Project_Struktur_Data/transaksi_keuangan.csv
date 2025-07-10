@@ -1,0 +1,8 @@
+id,jenis,jumlah,kategori,tanggal,deskripsi
+1,Pemasukan,50000.0,Pemasukan,2025-01-11,Hasil Jualan Baju
+2,Pengeluaran,10000.0,Makanan,2025-01-11,Beli Poci
+3,Pemasukan,30000.0,Pemasukan,2025-01-12,Hasil Jualan Pulpen
+4,Pemasukan,20000.0,Pemasukan,2025-01-13,Hasil Jualan Permen
+5,Pengeluaran,25000.0,Kesehatan,2025-01-15,Hasil Beli Obat
+6,Pemasukan,100000.0,Pemasukan,2025-07-05,Uang Bulanan
+7,Pengeluaran,20000.0,Transportasi,2025-07-06,Naik ojek online
